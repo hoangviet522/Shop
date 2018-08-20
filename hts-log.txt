@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 18 Aug 2018 11:20:22 at http://shop.azelab.com/home-1-clothes-full-width.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://shop.azelab.com/home-1-clothes-full-width.html -O1 "D:\NODEJS\Shop" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:23:17	Error: 	"Not Found" (404) at link shop.azelab.com/your@email.com (from shop.azelab.com/home-1-clothes-full-width.html)
+11:47:42	Error: 	"Not Found" (404) at link shop.azelab.com/css/bootstrap/glyphicons-halflings-regular.eot (from shop.azelab.com/css/bootstrap.css)
+11:47:42	Error: 	"Not Found" (404) at link shop.azelab.com/css/bootstrap/glyphicons-halflings-regular.eot? (from shop.azelab.com/css/bootstrap.css)
+11:47:42	Error: 	"Not Found" (404) at link shop.azelab.com/css/bootstrap/glyphicons-halflings-regular.woff (from shop.azelab.com/css/bootstrap.css)
+11:47:42	Error: 	"Not Found" (404) at link shop.azelab.com/css/bootstrap/glyphicons-halflings-regular.ttf (from shop.azelab.com/css/bootstrap.css)
+11:47:42	Error: 	"Not Found" (404) at link shop.azelab.com/css/bootstrap/glyphicons-halflings-regular.svg (from shop.azelab.com/css/bootstrap.css)
+11:47:42	Error: 	"Not Found" (404) at link shop.azelab.com/images/stars-rating.png (from shop.azelab.com/css/style.css)
+11:47:42	Warning: 	Retry after error -4 (Incorrect length (234151 Bytes, 5873021 expected)) at link shop.azelab.com/images/home-2/bg.jpg (from shop.azelab.com/css/style.css)
+11:47:42	Error: 	"Not Found" (404) at link shop.azelab.com/images/stars-rating-home-v2.png (from shop.azelab.com/css/style.css)
+11:47:42	Warning: 	Retry after error -4 (Incorrect length (229330 Bytes, 1580404 expected)) at link shop.azelab.com/images/home-4/bg.jpg (from shop.azelab.com/css/style.css)
+11:47:42	Error: 	"Not Found" (404) at link shop.azelab.com/images/stars-rating-home-v4.png (from shop.azelab.com/css/style.css)
+11:48:06	Error: 	"Not Found" (404) at link shop.azelab.com/images/home-2/featured/pd9.jpg (from shop.azelab.com/home-2-furniture.html)
+11:48:06	Error: 	"Not Found" (404) at link shop.azelab.com/images/home-2/featured/pd10.jpg (from shop.azelab.com/home-2-furniture.html)
+11:48:06	Error: 	"Not Found" (404) at link shop.azelab.com/css/mediaelementplayer.css (from shop.azelab.com/blog.html)
+11:48:06	Warning: 	Retry after error -4 (Incorrect length (392489 Bytes, 12058800 expected)) at link shop.azelab.com/audio/Nirvana-Smells_Like_Teen_Spirit.mp3 (from shop.azelab.com/blog.html)
+11:48:35	Error: 	"Not Found" (404) at link shop.azelab.com/milan@gmail.com (from shop.azelab.com/contact.html)
+11:48:35	Warning: 	Retry after error -4 (Incorrect length (464046 Bytes, 5873021 expected)) at link shop.azelab.com/images/home-2/bg.jpg (from shop.azelab.com/css/style.css)
+11:50:07	Warning: 	Retry after error -4 (Incorrect length (805348 Bytes, 12058800 expected)) at link shop.azelab.com/audio/Nirvana-Smells_Like_Teen_Spirit.mp3 (from shop.azelab.com/blog.html)
+11:50:07	Error: 	"Not Found" (404) at link shop.azelab.com/css/plugins/jquery-ui/images/ui-icons_222222_256x240.png (from shop.azelab.com/css/vendor/jquery-ui.theme.css)
+11:50:07	Error: 	"Not Found" (404) at link shop.azelab.com/css/plugins/jquery-ui/images/ui-icons_ffffff_256x240.png (from shop.azelab.com/css/vendor/jquery-ui.theme.css)
+11:50:07	Error: 	"Not Found" (404) at link shop.azelab.com/css/plugins/jquery-ui/images/ui-icons_ef8c08_256x240.png (from shop.azelab.com/css/vendor/jquery-ui.theme.css)
+11:50:07	Error: 	"Not Found" (404) at link shop.azelab.com/css/plugins/jquery-ui/images/ui-icons_228ef1_256x240.png (from shop.azelab.com/css/vendor/jquery-ui.theme.css)
+11:50:07	Error: 	"Not Found" (404) at link shop.azelab.com/css/plugins/jquery-ui/images/ui-icons_ffd27a_256x240.png (from shop.azelab.com/css/vendor/jquery-ui.theme.css)
+11:50:07	Error: 	"Not Found" (404) at link shop.azelab.com/css/plugins/jquery-ui/images/ui-bg_diagonals-thick_20_666666_40x40.png (from shop.azelab.com/css/vendor/jquery-ui.theme.css)
+11:50:07	Error: 	"Not Found" (404) at link shop.azelab.com/css/plugins/jquery-ui/images/ui-bg_flat_10_000000_40x100.png (from shop.azelab.com/css/vendor/jquery-ui.theme.css)
+11:51:01	Error: 	"Incorrect length (2200822 Bytes, 5873021 expected)" (-4) after 2 retries at link shop.azelab.com/images/home-2/bg.jpg (from shop.azelab.com/css/style.css)
+11:51:01	Error: 	"Incorrect length (1388030 Bytes, 12058800 expected)" (-4) after 2 retries at link shop.azelab.com/audio/Nirvana-Smells_Like_Teen_Spirit.mp3 (from shop.azelab.com/blog.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 30 minutes 39 seconds : 318 links scanned, 290 files written (45286972 bytes overall) [45527748 bytes received at 24756 bytes/sec], 4114472 bytes transferred using HTTP compression in 81 files, ratio 15%, 3.7 requests per connection
+(22 errors, 5 warnings, 0 messages)
